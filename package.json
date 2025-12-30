@@ -1,6 +1,6 @@
 {
   "name": "@spacelyorg/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "descriptions": "Core utilities and shared setup",
   "type": "commonjs",
   "publishConfig": {
