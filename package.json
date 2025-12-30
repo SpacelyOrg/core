@@ -1,5 +1,5 @@
 {
-  "name": "@spacely/core",
+  "name": "@spacelyorg/core",
   "version": "1.0.0",
   "descriptions": "Core utilities and shared setup",
   "type": "commonjs",
